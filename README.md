@@ -1,2 +1,3 @@
-# CSC221
-Advanced Python
+CSC 221
+
+Reginald Jones
